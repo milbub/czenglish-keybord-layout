@@ -1,0 +1,2 @@
+    WARNING: ! (U+0021) is already defined more than once on the keyboard (on VK_1, ShiftState 'Ctl+Alt' and VK_1, ShiftState 'Base').
+    WARNING: The character − (U+2212) exists in the entry for VK_OEM_2, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Czech (Czech Republic) language you specified. This may cause compatibility problems in non-Unicode applications.
